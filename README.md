@@ -48,6 +48,6 @@ Welcome to the Library Management System (LMS) project! This system is designed 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Support
-For any inquiries or issues, please contact [your-email@example.com](mailto:varzilthakkarvvv@gmail.com).
+For any inquiries or issues, please contact [varzilthakkarvvv@gmail.com](mailto:varzilthakkarvvv@gmail.com).
 
 Thank you for using the Library Management System! We hope it streamlines your library operations effectively.
